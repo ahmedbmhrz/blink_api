@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "blinkchat-99636",
+  "private_key_id": "76851ce388d3ac32415133f82466f7f13584b632",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC2WM7KbvW91/GF\nDK6tSEvizrkL3lVXrfzyaQLiCTmvHhYbA6L1mHaaksBN+rF1gghxRIAZaDjHx5oW\n6MZBipuR3KGTEyS5i9NKdRJXkJn9iz8VcM2TQ8k9JPW8pSsBLWRw1hWKro8uVUoM\n55vdTeppyZRoEDNGitIZj1Jz1GUFv5Wc6GtAQyb5xNbUABFb+Fsq0TBFMVbIxfPh\namGPhPhq25NBkLFpCPtkePqGdSQL2MWBO3KgC3exbJgmxuRjXrQ8oHOHqmE84t5U\nbvIWMf2JQxZRcqGXvzZOd2Kfy8dxuWE3wbXn5KO+pHCsjzLGHqHSmqZ6dGKiIPj8\nfBFbLbFBAgMBAAECggEAJBsaGTXW5Wgam+J6vPeFhSuzMuEri2C5ZwN5jWnPuPfP\nXzp9XD178JfxyY8D7/VXOBxc9ArxwUcp4PLm/MfWDY//E0j1WuMPq5zaTKnmf/CA\nRX3QSuJfeMK2gMvAo+tJydjuK4dsdPtw3fTHZU7eBWPjhaZ9jLCEsQhyxlouRbCH\nH5rbZig5eoBZiEg07vRal/PQ8M3/QNnNUWJTp0CPzsvGJKgdrFKVYVRxIcquu2ra\n8GlmCNvtKLCT97nsnxrTOJAbCGU4qmdP7Qu2TQkTZxFJL2JReZJTzkazVRQbtyPs\npa9HfuOsU8fdd00qN67y5yjGJb4kOQZhtiAW2PCrZQKBgQD5KdKU7SPujms3TL/J\n/u0WnWWE21xM9LSLdfCi+TzSCHoae0j9ncLd8Nlas61V07lLP18fdnVel58da26j\nlGBLXpxa7OO3aP6bMYAaiv2sbMYoXki13EHfmBicTsj78CJYBkyL3nK8JpT/KcE5\nvwzJsRFf5SY/tKnwV4bLdIBF5QKBgQC7WabiXPkz4KYXcJvk9YSP2f11ZZoSTKli\nyzXwpOziTWENw3qE3kV8FOjylLdaLfitHVpe04P/ZLkueoqvT+UY/1RXVBUGbTH3\nuH62n5cfqorr1e1qBpEc9TPUm8eXcfP/GvW15vUxQzzdwgThE43SEo87eewswi46\nt8CnuYVILQKBgQDMU+/NEWuWBlUGVHozPEtRcGIAQaO/uC0W8PEVtS6bTzhS3ydM\nVEOpngmgyBgteiNKAf4P3yUBHXXuultQ6izNohi2t+1GS2QAAOf83F6LN+iI0kju\nWmHq6t/DzxgjAxom9YNwcEvG4Bzv414B7RqfjAWjjld/hriV0DFKR4+pwQKBgQCt\noZ7693O10qPb4W95uNlMgJlYbftmrknl17N7/T3VViV2ng40idMX9kEWYSG0oBpy\nRlv0uk8BKRY+ry9M3tzSWACQlsqNlDHVBdXZ5vomTOZHP5Kyyrc+gTmx91X5U5Dw\ngsnp9cyUBV6pnyDqgDbV1IGOe6aYrLYvkREp4NRXWQKBgQCgDKxjv0/px4tMKppH\ng0HGIDxKbyNUK606v2RKmAXvSsknhqcvNITchbuk5yRY/a/zi//sOE/VIfOoGW5f\nPPqhNg7phJwX8LzafAk/aibGFO7jLc6tK1JdaMDQQ6ruhQcVCT1/IwyR9Lh44dGv\nncu6nBMLWe9N/7IN+p/brIi7Xw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@blinkchat-99636.iam.gserviceaccount.com",
+  "client_id": "104747738403758860130",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40blinkchat-99636.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
